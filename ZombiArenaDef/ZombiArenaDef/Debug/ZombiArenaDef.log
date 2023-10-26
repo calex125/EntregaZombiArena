@@ -1,0 +1,27 @@
+﻿  Motor.cpp
+D:\AluCiclesGS2\Programació\ZombiArenaDef\ZombiArenaDef\Motor.cpp(6,46): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\AluCiclesGS2\Programació\ZombiArenaDef\ZombiArenaDef\Motor.cpp(6,32): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\AluCiclesGS2\Programació\ZombiArenaDef\ZombiArenaDef\Motor.cpp(5,78): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\AluCiclesGS2\Programació\ZombiArenaDef\ZombiArenaDef\Motor.cpp(5,43): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\AluCiclesGS2\Programació\ZombiArenaDef\ZombiArenaDef\Motor.cpp(268,59): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  ZombiArenaDef.vcxproj -> D:\AluCiclesGS2\Programació\ZombiArenaDef\Debug\ZombiArenaDef.exe
